@@ -1,0 +1,22 @@
+epoch=1 crossentropy(train): 2.0534947948102844
+epoch=1 crossentropy(test): 2.0640041428806986
+epoch=2 crossentropy(train): 1.765388403289653
+epoch=2 crossentropy(test): 1.8019119450724042
+epoch=3 crossentropy(train): 1.5392107150566683
+epoch=3 crossentropy(test): 1.5963360321494848
+epoch=4 crossentropy(train): 1.3959503364150936
+epoch=4 crossentropy(test): 1.4861216698922084
+epoch=5 crossentropy(train): 1.292820674389926
+epoch=5 crossentropy(test): 1.4320629410497736
+epoch=6 crossentropy(train): 1.2146721416979511
+epoch=6 crossentropy(test): 1.4122337751479899
+epoch=7 crossentropy(train): 1.1593541101389693
+epoch=7 crossentropy(test): 1.4175483932793096
+epoch=8 crossentropy(train): 1.1184222973267242
+epoch=8 crossentropy(test): 1.4418671766071338
+epoch=9 crossentropy(train): 1.0892759284233005
+epoch=9 crossentropy(test): 1.4784195691111577
+epoch=10 crossentropy(train): 1.0675480208658144
+epoch=10 crossentropy(test): 1.5151256651331522
+error(train): 0.424
+error(test): 0.6
